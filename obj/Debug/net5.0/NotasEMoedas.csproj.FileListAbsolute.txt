@@ -1,0 +1,16 @@
+H:\Workspace\NotasEMoedas\bin\Debug\net5.0\NotasEMoedas.exe
+H:\Workspace\NotasEMoedas\bin\Debug\net5.0\NotasEMoedas.deps.json
+H:\Workspace\NotasEMoedas\bin\Debug\net5.0\NotasEMoedas.runtimeconfig.json
+H:\Workspace\NotasEMoedas\bin\Debug\net5.0\NotasEMoedas.runtimeconfig.dev.json
+H:\Workspace\NotasEMoedas\bin\Debug\net5.0\NotasEMoedas.dll
+H:\Workspace\NotasEMoedas\bin\Debug\net5.0\ref\NotasEMoedas.dll
+H:\Workspace\NotasEMoedas\bin\Debug\net5.0\NotasEMoedas.pdb
+H:\Workspace\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.csprojAssemblyReference.cache
+H:\Workspace\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.AssemblyInfoInputs.cache
+H:\Workspace\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.AssemblyInfo.cs
+H:\Workspace\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.csproj.CoreCompileInputs.cache
+H:\Workspace\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.dll
+H:\Workspace\NotasEMoedas\obj\Debug\net5.0\ref\NotasEMoedas.dll
+H:\Workspace\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.pdb
+H:\Workspace\NotasEMoedas\obj\Debug\net5.0\NotasEMoedas.genruntimeconfig.cache
